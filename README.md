@@ -7,6 +7,6 @@
 📖 Currently Learning about Data analytics<!br>
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtiannn07&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtiannn07&show_icons=true&theme=dark)
 
   
