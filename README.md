@@ -5,7 +5,7 @@
 - 👨🏼‍🎓 Studied Computer Engineering at the National University, Manila </br>
 - 🧠 Constantly feeding my brain with various technologies </br>
 - 📖 Currently Learning about Data analytics <br>
-- 👨‍💻 All of my projects are available at my [Portfolio](https://potfoliov3-mu.vercel.app/)
+- 👨‍💻 Some of my projects are available at my [Portfolio](https://potfoliov3-mu.vercel.app/)
 - 📫 Feel free to reach me **galinganchristianmarc@gmail.com**
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes -->
@@ -49,3 +49,4 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a> 
 </p> 
 
+### Note! I intentionally made most of my repo as private since some of my visitors has forked and pull requested with blank pages as changes into my projects. 
