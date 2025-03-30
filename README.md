@@ -48,4 +48,4 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a> 
 </p> 
 
-### Note! I intentionally made most of my repo as private since some of my visitors has forked and pull requested with blank pages as changes into my projects. 
+### Note! I have chosen to keep my repositories private due to unwanted fork requests with blank changes. If needed, I could share selected projects with you.
