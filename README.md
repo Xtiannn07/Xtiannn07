@@ -1,5 +1,5 @@
 
-# Hi, I am Shan! <h3 align="center">A passionate FullStack developer from Philippines</h3>
+# Hi, I am Shan! <h3 align="center">A passionate Full Stack Developer from Philippines</h3>
 
 - 👨🏽‍💻 Software Engineer hopping on various trends and demand. </br>
 - 👨🏼‍🎓 Studied Computer Engineering at the National University, Manila </br>
