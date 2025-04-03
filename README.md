@@ -41,7 +41,7 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" alt="arduino" width="60" height="40"/> </a>  
-<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://firebase.google.com/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21~bgwhite.svg" alt="firebase" width="70" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21~bgwhite.svg" alt="firebase" width="70" height="40"/> </a>
 </p>
 
 ### Note! I have chosen to keep my repositories private due to unwanted fork requests with blank changes. If needed, I could share selected projects with you.
