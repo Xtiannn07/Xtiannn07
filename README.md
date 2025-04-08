@@ -5,7 +5,7 @@
 - 👨🏼‍🎓 Studied Computer Engineering at the National University, Manila </br>
 - 🧠 Constantly feeding my brain with various technologies </br>
 - 📖 Currently Learning about Data analytics <br>
-- 👨‍💻 Some of my projects are available at my [Portfolio](https://potfoliov3-mu.vercel.app/)
+- 👨‍💻 Some of my projects are available at my [Portfolio](https://galingan-portfolio.vercel.app/)
 - 📫 Feel free to reach me **galinganchristianmarc@gmail.com**
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes -->
