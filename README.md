@@ -9,10 +9,13 @@
 - 📫 Feel free to reach me **galinganchristianmarc@gmail.com**
 
 <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xtiannn07&show_icons=true&theme=transparent)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xtiannn07&theme=transparent&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=480&card_height=220)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://github.com/Xtiannn07">
+    <!-- For large screens (side by side) -->
+    <img height="195" style="display: inline-block; margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=Xtiannn07&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+    <img height="195" style="display: inline-block; margin: 0 10px;" src="https://streak-stats.demolab.com?user=Xtiannn07&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
 
 # Languages and Tools:
 <p align="left"> 
