@@ -12,8 +12,8 @@
 <div align="center">
   <a href="https://github.com/Xtiannn07">
     <!-- For large screens (side by side) -->
-    <img height="150" style="display: inline-block; margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=Xtiannn07&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-    <img height="150" style="display: inline-block; margin: 0 10px;" src="https://streak-stats.demolab.com?user=Xtiannn07&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img height="170" style="display: inline-block; margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=Xtiannn07&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+    <img height="170" style="display: inline-block; margin: 0 10px;" src="https://streak-stats.demolab.com?user=Xtiannn07&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 
