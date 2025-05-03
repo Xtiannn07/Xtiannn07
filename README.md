@@ -47,4 +47,4 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21~bgwhite.svg" alt="firebase" width="70" height="40"/> </a>
 </p>
 
-### Note! I have chosen to keep my repositories private due to unwanted fork requests with blank changes. If needed, I could share selected projects with you.
+### Note! I have chosen to keep my some of my repositories private due privacy reasons. If needed, I could share selected projects with you.
