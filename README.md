@@ -4,7 +4,7 @@
 - 👨🏽‍💻 Software Engineer hopping on various trends and demand. </br>
 - 👨🏼‍🎓 Studied Computer Engineering at the National University, Manila </br>
 - 🧠 Constantly feeding my brain with various technologies </br>
-- 📖 Currently Learning about Data analytics <br>
+- 📖 Currently Learning about Tech/On-page SEO (Data analytics) <br>
 - 👨‍💻 Some of my projects are available at my [Portfolio](https://galingan-portfolio.vercel.app/)
 - 📫 Feel free to reach me **galinganchristianmarc@gmail.com**
 
